@@ -1,2 +1,2 @@
 # Streetplaner
-C++ ; Qt project ; Object oriented  
+C++ ; Qt project ; Object oriented approach
